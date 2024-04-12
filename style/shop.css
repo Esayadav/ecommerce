@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(214, 214, 214);
+  }
+  
+  .logo{
+    width: 250px; 
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .preview{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    
+  }
+  .picture1{
+    width: 200px; 
+      display: inline-block;
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+  .title{
+    width: 300px;
+  }
+  
+  a:link, a:visited {
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid;
+    background-color: rgb(255, 255, 255);
+  }
+  a:hover, a:active {
+    opacity: 0.5;
+  }
+  .button1{
+    background-color: rgb(167, 4, 4);
+    color: white;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 2px;
+  
+  }
+  .point:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    
+  }
+  
