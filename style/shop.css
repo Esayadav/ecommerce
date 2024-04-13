@@ -14,15 +14,15 @@ body{
     vertical-align: top;
     margin-right: 100px;
     margin-bottom: 10px;
-      height:300px;
+    height: 300px;
     
   }
   .picture1{
-    width: 200px; 
+      width: 200px; 
       display: inline-block;
       margin-left: 5px;
       margin-right: 5px;
-      height:200px;
+      height: 200px;
   }
   .title{
     width: 300px;
